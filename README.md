@@ -22,9 +22,3 @@ Essas são as tecnologias previstas para o projeto; a implementação ainda não
 3. Loja virtual integrada ao catálogo e ao estoque
 
 Cada etapa será planejada e construída depois que a anterior estiver funcional. Recursos de produção, como integração de pagamentos e emissão fiscal, exigem planejamento próprio e não fazem parte do escopo atual.
-
-## Status
-
-Em planejamento, Sprint 0. O repositório apresenta a proposta e o plano do projeto; a implementação começa na Sprint 1.
-
-O planejamento atual está em [`sprint-0-plan.md`](sprint-0-plan.md).
